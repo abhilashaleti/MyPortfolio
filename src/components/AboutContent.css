@@ -1,0 +1,14 @@
+.about {
+  width: 100%;
+  margin: 3rem, 0;
+  height: 100%;
+}
+
+.about .left {
+  margin: auto;
+  padding: 1rem;
+  max-width: 850px;
+}
+.about .left p {
+  margin: 0.2rem 0rem 1.2rem;
+}
